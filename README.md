@@ -10,7 +10,7 @@ Video recored with [OBS](https://obsproject.com/) and edited in [Kdenlive](https
 https://github.com/user-attachments/assets/8ea486a4-2bd1-4e88-b7e7-da1bb6cdceef
 
 
-Diagram Class made in [Dia Diagram Editor](http://dia-installer.de/)
+Class Diagram made in [Dia Diagram Editor](http://dia-installer.de/)
 
 ![football-net-diagram-class](https://github.com/user-attachments/assets/94733ced-f413-4859-98ea-ba0d461ac73a)
 
